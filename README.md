@@ -5,7 +5,7 @@ Provides comparisons of areas under independent ROC curves using methods from Ha
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for Python.
 
 ---
 Installation intructions
