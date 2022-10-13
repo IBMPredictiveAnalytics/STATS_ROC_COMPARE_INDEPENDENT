@@ -1,4 +1,5 @@
 Name: STATS ROC-COMPARE INDEPENDENT
+Display-Name: Pairwise Comparisons of ROC Curves
 Dialog-Specs: STATS_ROC_COMPARE_INDEPENDENT.spd
 Misc-Files: extsyntax.css
 Summary:  Pairwise Comparisons of Areas Under Independent ROC Curves
