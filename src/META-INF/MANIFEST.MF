@@ -6,7 +6,7 @@ Summary:  Pairwise Comparisons of Areas Under Independent ROC Curves
 Description: Provides comparisons of areas under independent ROC curve
  s using methods from Hanley & McNeil (1982).
 Author: David Nichols
-Version: 2.0.0
+Version: 2.0.1
 Product-Version: 24
 Plugins: Python
 Python-Version: 3
